@@ -4,7 +4,7 @@ from PIL import Image
 # Set page configuration
 st.set_page_config(
     page_title="Digital Marketing Agency",
-    page_icon="🚀",
+    page_icon="🎯",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
